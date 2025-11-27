@@ -1,0 +1,15 @@
+C:\Users\julia\temp\cBasics\10-array\bin\Debug\net8.0\10-array.exe
+C:\Users\julia\temp\cBasics\10-array\bin\Debug\net8.0\10-array.deps.json
+C:\Users\julia\temp\cBasics\10-array\bin\Debug\net8.0\10-array.runtimeconfig.json
+C:\Users\julia\temp\cBasics\10-array\bin\Debug\net8.0\10-array.dll
+C:\Users\julia\temp\cBasics\10-array\bin\Debug\net8.0\10-array.pdb
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.sourcelink.json
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.dll
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\refint\10-array.dll
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.pdb
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\10-array.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\10-array\obj\Debug\net8.0\ref\10-array.dll
