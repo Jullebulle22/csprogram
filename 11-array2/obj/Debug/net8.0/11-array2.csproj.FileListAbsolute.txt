@@ -1,0 +1,14 @@
+C:\Users\julia\temp\cBasics\11-array2\bin\Debug\net8.0\11-array2.exe
+C:\Users\julia\temp\cBasics\11-array2\bin\Debug\net8.0\11-array2.deps.json
+C:\Users\julia\temp\cBasics\11-array2\bin\Debug\net8.0\11-array2.runtimeconfig.json
+C:\Users\julia\temp\cBasics\11-array2\bin\Debug\net8.0\11-array2.dll
+C:\Users\julia\temp\cBasics\11-array2\bin\Debug\net8.0\11-array2.pdb
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.dll
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\refint\11-array2.dll
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.pdb
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\11-array2.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\11-array2\obj\Debug\net8.0\ref\11-array2.dll
