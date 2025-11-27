@@ -1,0 +1,14 @@
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\bin\Debug\net8.0\01-variabler-datatyper.exe
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\bin\Debug\net8.0\01-variabler-datatyper.deps.json
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\bin\Debug\net8.0\01-variabler-datatyper.runtimeconfig.json
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\bin\Debug\net8.0\01-variabler-datatyper.dll
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\bin\Debug\net8.0\01-variabler-datatyper.pdb
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.dll
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\refint\01-variabler-datatyper.dll
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.pdb
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\01-variabler-datatyper.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\01-variabler-datatyper\obj\Debug\net8.0\ref\01-variabler-datatyper.dll

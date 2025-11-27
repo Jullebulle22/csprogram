@@ -1,0 +1,14 @@
+C:\Users\julia\temp\cBasics\08-loop\bin\Debug\net8.0\08-loop.exe
+C:\Users\julia\temp\cBasics\08-loop\bin\Debug\net8.0\08-loop.deps.json
+C:\Users\julia\temp\cBasics\08-loop\bin\Debug\net8.0\08-loop.runtimeconfig.json
+C:\Users\julia\temp\cBasics\08-loop\bin\Debug\net8.0\08-loop.dll
+C:\Users\julia\temp\cBasics\08-loop\bin\Debug\net8.0\08-loop.pdb
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.dll
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\refint\08-loop.dll
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.pdb
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\08-loop.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\08-loop\obj\Debug\net8.0\ref\08-loop.dll

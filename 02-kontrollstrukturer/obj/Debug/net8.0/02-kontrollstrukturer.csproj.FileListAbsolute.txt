@@ -1,0 +1,14 @@
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\bin\Debug\net8.0\02-kontrollstrukturer.exe
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\bin\Debug\net8.0\02-kontrollstrukturer.deps.json
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\bin\Debug\net8.0\02-kontrollstrukturer.runtimeconfig.json
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\bin\Debug\net8.0\02-kontrollstrukturer.dll
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\bin\Debug\net8.0\02-kontrollstrukturer.pdb
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.dll
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\refint\02-kontrollstrukturer.dll
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.pdb
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\02-kontrollstrukturer.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\02-kontrollstrukturer\obj\Debug\net8.0\ref\02-kontrollstrukturer.dll
