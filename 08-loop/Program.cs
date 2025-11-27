@@ -4,7 +4,7 @@
     {
         string password = "hemligt";
         
-        int antalForsok = 0;
+        int antalFörsök = 0;
         
         string gissning;
         
@@ -13,7 +13,7 @@
             Console.Write("Gissa lösenordet: ");
             gissning = Console.ReadLine() ?? "";
             
-            antalForsok++;
+            antalFörsök++;
             
             if (gissning != password)
             {
@@ -21,6 +21,6 @@
             }
         } while (gissning != password);
         
-        Console.WriteLine($"Grattis! Du gissade rätt efter {antalForsok} försök.");
+        Console.WriteLine($"Grattis! Du gissade rätt efter {antalFörsök} försök.");
     }
 }

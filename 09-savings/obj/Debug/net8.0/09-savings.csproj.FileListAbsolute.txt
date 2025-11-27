@@ -1,0 +1,15 @@
+C:\Users\julia\temp\cBasics\09-savings\bin\Debug\net8.0\09-savings.exe
+C:\Users\julia\temp\cBasics\09-savings\bin\Debug\net8.0\09-savings.deps.json
+C:\Users\julia\temp\cBasics\09-savings\bin\Debug\net8.0\09-savings.runtimeconfig.json
+C:\Users\julia\temp\cBasics\09-savings\bin\Debug\net8.0\09-savings.dll
+C:\Users\julia\temp\cBasics\09-savings\bin\Debug\net8.0\09-savings.pdb
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.AssemblyInfoInputs.cache
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.AssemblyInfo.cs
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.csproj.CoreCompileInputs.cache
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.sourcelink.json
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.dll
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\refint\09-savings.dll
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.pdb
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\09-savings.genruntimeconfig.cache
+C:\Users\julia\temp\cBasics\09-savings\obj\Debug\net8.0\ref\09-savings.dll
